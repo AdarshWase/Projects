@@ -4,4 +4,5 @@
 This REPO contains fallowing projects :
 
 1. Mobile Price Classification
-2. 
+2. House Price Prediction
+3. 
