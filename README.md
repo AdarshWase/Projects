@@ -1,5 +1,5 @@
 # Projects
-*My Machine Learning Projects repository !!*
+# My Machine Learning Projects repository !!
 
 This REPO contains fallowing projects :
 
