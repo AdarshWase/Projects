@@ -1,7 +1,7 @@
 # Projects
 # My Machine Learning Projects repository !!
 
-This REPO contains fallowing projects :
+This REPO contains following projects :
 
 1. Mobile Price Classification
 2. House Price Prediction
