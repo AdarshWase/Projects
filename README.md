@@ -5,4 +5,4 @@ This REPO contains fallowing projects :
 
 1. Mobile Price Classification
 2. House Price Prediction
-3. Intel Image Classification
+3. MNIST handwritten digit recognition
