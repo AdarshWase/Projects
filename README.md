@@ -9,3 +9,4 @@ This REPO contains following projects :
 4. Signs classification with ResNet
 5. Tweet Preprocessing
 6. Sentimental Analysis with Logistic Regression
+7. ASL Recognition with Deep Learning
