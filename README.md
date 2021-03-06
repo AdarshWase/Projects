@@ -7,3 +7,5 @@ This REPO contains following projects :
 2. House Price Prediction
 3. MNIST classification with Y-Network
 4. Signs classification with ResNet
+5. Tweet Preprocessing
+6. Sentimental Analysis with Logistic Regression
