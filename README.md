@@ -1,7 +1,7 @@
 # Projects
 # My Machine Learning Projects repository !
 
-## This REPO contains following projects :
+## This repository contains following projects :
 
 1. Mobile Price Classification with **GridSearchCV**
 2. House Price Prediction
